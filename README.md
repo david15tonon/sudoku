@@ -3,6 +3,8 @@
 A fully functional Sudoku puzzle game built with vanilla JavaScript, HTML, and CSS. Play classic Sudoku with intuitive controls and helpful features.
 
 ![Sudoku Game Screenshot](./sudoku.png) <!-- Replace with your actual screenshot -->
+
+
 ![Sudoku Game Screenshot](./solution.png)
 
 ## 🌟  Features
