@@ -4,26 +4,7 @@ A fully functional Sudoku puzzle game built with vanilla JavaScript, HTML, and C
 
 ![Sudoku Game Screenshot](./sudoku.png) <!-- Replace with your actual screenshot -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br> <br>
 ![Sudoku Game Screenshot](./solution.png)
 
 ## 🌟  Features
